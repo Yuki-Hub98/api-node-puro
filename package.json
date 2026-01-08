@@ -1,0 +1,20 @@
+{
+  "name": "api-node-puro",
+  "version": "1.0.0",
+  "description": "Essa api é feita com node e http puro, sem frameworks, com intuito de aprendizado e melhor exploração sobre as trocas de dados na camada de rede",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuki-Hub98/api-node-puro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuki-Hub98/api-node-puro/issues"
+  },
+  "homepage": "https://github.com/Yuki-Hub98/api-node-puro#readme"
+}
